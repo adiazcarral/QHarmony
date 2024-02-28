@@ -1,4 +1,4 @@
-# Quantum Computing Band Structure Calculation for Solid-State Materials
+# QHarmony: Quantum Solid-State Predictions
 
 This repository contains code for quantum computing calculations of band structures for solid-state materials. The code is based on the JARVIS (Joint Automated Repository for Various Integrated Simulations) framework and utilizes quantum algorithms for electronic structure calculations.
 
