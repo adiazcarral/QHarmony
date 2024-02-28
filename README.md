@@ -2,6 +2,12 @@
 
 This repository contains code for quantum computing calculations of band structures for solid-state materials. The code is based on the JARVIS (Joint Automated Repository for Various Integrated Simulations) framework and utilizes quantum algorithms for electronic structure calculations.
 
+## Citation
+
+If you find this code useful in your research, please consider also citing the following paper:
+
+Choudhary, K. (2021). "Quantum Computation for Predicting Solid-State Electron and Phonon Properties." *J. Phys.: Condens. Matter*, 33(38), 385501. DOI: [10.1088/1361-648X/ac1154](https://doi.org/10.1088/1361-648X/ac1154)
+
 ## Overview
 
 The code uses the Qiskit library for quantum computing and the JARVIS database for obtaining material information. It demonstrates the calculation of the band structure for solid-state materials using quantum algorithms such as Variational Quantum Eigensolver (VQE) and Variational Quantum Deflation (VQD).
