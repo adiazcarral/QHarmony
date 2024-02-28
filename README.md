@@ -1,2 +1,2 @@
 # qc-mlips
- Quantum Computing scripts for the generation of QML potentials for solid-state applications
+Electron and Phonon Properties of Periodic Solids via Quantum Computing
