@@ -41,7 +41,7 @@ def run_vqe_and_vqd(HS, circ, backend, Ef):
     print(Ef)
 
     # VQD
-    eigenvalues, _ = HS.run_vqd(backend=backend, reps=reps)
+    eigenvalues, _ = HS.run_vqd(backend=backend, reps=1)
     print('Classical, VQD (eV)', (vals[0] - Ef), (eigenvalues[0] - Ef))
 
 def generate_band_structure(wtbh, atoms):
